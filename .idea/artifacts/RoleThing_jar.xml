@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RoleThing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RoleThing_jar</output-path>
+    <root id="archive" name="RoleThing.jar">
+      <element id="module-output" name="RoleThing" />
+    </root>
+  </artifact>
+</component>

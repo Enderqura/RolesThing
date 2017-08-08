@@ -1,0 +1,9 @@
+name: Roles
+main: com.enderaura.roles.Roles
+version: 1.0
+
+commands:
+  setrank:
+    description: Set a rank
+  listranks:
+    description: List all ranks.
